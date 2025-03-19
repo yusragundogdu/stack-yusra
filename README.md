@@ -27,8 +27,9 @@ To use this project and understand the Git/GitHub workflow, follow these steps:
 * **coordinates.csv:** Contains geographical coordinates data.
 * **point.py:** A Python script (currently empty).
 * **tests:** An initially empty folder for potential future tests.
-* ![Proje Diyagramı](img/Blank diagram.png)
-* ![Ekran Görüntüsü](img/Ekran görüntüsü 2025-03-19 105112.png)
+* ![Proje Diyagramı](img/diyagram.png)
+* ![Ekran Görüntüsü](img/ekran.png)
+  
 ## Difficulties 
 
 * **Incorrect Remote URL:** Initially, there were issues with the remote repository URL, resulting in errors like "fatal: 'origin' does not appear to be a git repository". This was resolved by using the correct URL: `https://github.com/yusragundogdu/point-package.git`.
