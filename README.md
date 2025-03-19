@@ -27,6 +27,8 @@ To use this project and understand the Git/GitHub workflow, follow these steps:
 * **coordinates.csv:** Contains geographical coordinates data.
 * **point.py:** A Python script (currently empty).
 * **tests:** An initially empty folder for potential future tests.
+* ![Proje Diyagramı](img/Blank diagram.png)
+* ![Ekran Görüntüsü](img/Ekran görüntüsü 2025-03-19 105112.png)
 
 ## Difficulties 
 
