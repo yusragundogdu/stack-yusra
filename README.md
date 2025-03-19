@@ -16,7 +16,7 @@ To use this project and understand the Git/GitHub workflow, follow these steps:
 
 2.  **Add files to the staging area:** Use the `git add .` command to add all files (coordinates.csv and point.py) to the staging area.
 
-3.  **Commit changes:** Use the `git commit -m "Your commit message"` command to commit the staged changes with a descriptive message. For example: `git commit -m "Added coordinates.csv and point.py files"`.
+3.  **Commit changes:** Use the `git commit -m "Eklendi"` command to commit the staged changes with a descriptive message. For example: `git commit -m "Added coordinates.csv and point.py files"`.
 
 4.  **Connect to the remote repository:** Use the `git remote add origin https://github.com/yusragundogdu/point-package.git` command to connect your local repository to the remote repository on GitHub.
 
