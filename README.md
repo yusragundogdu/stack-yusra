@@ -28,13 +28,13 @@ To use this project and understand the Git/GitHub workflow, follow these steps:
 * **point.py:** A Python script (currently empty).
 * **tests:** An initially empty folder for potential future tests.
 
-## Difficulties Encountered
+## Difficulties 
 
 * **Incorrect Remote URL:** Initially, there were issues with the remote repository URL, resulting in errors like "fatal: 'origin' does not appear to be a git repository". This was resolved by using the correct URL: `https://github.com/yusragundogdu/point-package.git`.
 * **Adding and Committing Files:** There was a misunderstanding of the order of commands. The `git add` command must be used before `git commit` to stage the files for commit.
 * **Pushing Changes:** After correctly setting the remote URL, the `git push -u origin master` command successfully pushed the local commits to GitHub.
 
-## Git Commands Used
+## Git Commands That I Used
 
 * `git init`: Initializes a new Git repository.
 * `git add .`: Adds all files to the staging area.
@@ -53,7 +53,7 @@ To use this project and understand the Git/GitHub workflow, follow these steps:
 
 * Commits were made after each significant change to the project, such as adding files, modifying code, or fixing bugs. This ensures that changes are tracked and can be reverted if necessary.
 
-## AI Usage (If Applicable)
+## AI Usage 
 
 * During this project, I utilized a large language model to assist with understanding Git and GitHub commands, troubleshooting errors, and structuring the README file. This interaction helped me.
 
